@@ -1,0 +1,12 @@
+C:\Users\cfco5\Documents\STUDIES\UAM\Clases\Quinto Semestre\Ingeniería de Software\Semana 7\SistemaRegistroLibros\SistemaRegistroLibros\bin\Debug\SistemaRegistroLibros.exe.config
+C:\Users\cfco5\Documents\STUDIES\UAM\Clases\Quinto Semestre\Ingeniería de Software\Semana 7\SistemaRegistroLibros\SistemaRegistroLibros\bin\Debug\SistemaRegistroLibros.exe
+C:\Users\cfco5\Documents\STUDIES\UAM\Clases\Quinto Semestre\Ingeniería de Software\Semana 7\SistemaRegistroLibros\SistemaRegistroLibros\bin\Debug\SistemaRegistroLibros.pdb
+C:\Users\cfco5\Documents\STUDIES\UAM\Clases\Quinto Semestre\Ingeniería de Software\Semana 7\SistemaRegistroLibros\SistemaRegistroLibros\obj\Debug\SistemaRegistroLibros.csproj.AssemblyReference.cache
+C:\Users\cfco5\Documents\STUDIES\UAM\Clases\Quinto Semestre\Ingeniería de Software\Semana 7\SistemaRegistroLibros\SistemaRegistroLibros\obj\Debug\SistemaRegistroLibros.csproj.SuggestedBindingRedirects.cache
+C:\Users\cfco5\Documents\STUDIES\UAM\Clases\Quinto Semestre\Ingeniería de Software\Semana 7\SistemaRegistroLibros\SistemaRegistroLibros\obj\Debug\SistemaRegistroLibros.Properties.Resources.resources
+C:\Users\cfco5\Documents\STUDIES\UAM\Clases\Quinto Semestre\Ingeniería de Software\Semana 7\SistemaRegistroLibros\SistemaRegistroLibros\obj\Debug\SistemaRegistroLibros.csproj.GenerateResource.cache
+C:\Users\cfco5\Documents\STUDIES\UAM\Clases\Quinto Semestre\Ingeniería de Software\Semana 7\SistemaRegistroLibros\SistemaRegistroLibros\obj\Debug\SistemaRegistroLibros.csproj.CoreCompileInputs.cache
+C:\Users\cfco5\Documents\STUDIES\UAM\Clases\Quinto Semestre\Ingeniería de Software\Semana 7\SistemaRegistroLibros\SistemaRegistroLibros\obj\Debug\SistemaRegistroLibros.exe
+C:\Users\cfco5\Documents\STUDIES\UAM\Clases\Quinto Semestre\Ingeniería de Software\Semana 7\SistemaRegistroLibros\SistemaRegistroLibros\obj\Debug\SistemaRegistroLibros.pdb
+C:\Users\cfco5\Documents\STUDIES\UAM\Clases\Quinto Semestre\Ingeniería de Software\Semana 7\SistemaRegistroLibros\SistemaRegistroLibros\obj\Debug\SistemaRegistroLibros.formularios.FrmRegistrarAutor.resources
+C:\Users\cfco5\Documents\STUDIES\UAM\Clases\Quinto Semestre\Ingeniería de Software\Semana 7\SistemaRegistroLibros\SistemaRegistroLibros\obj\Debug\SistemaRegistroLibros.FrmAutor.resources
